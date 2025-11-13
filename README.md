@@ -109,5 +109,3 @@ Senior Design 2025–2026
 
 ---
 
-## 📬 Contact  
-If you'd like access to the full prototype or additional internal documentation, please reach out through GitHub or email.
