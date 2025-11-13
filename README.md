@@ -1,222 +1,113 @@
-# IAJES Website Revamp
+# 🌐 IAJES Website Revamp  
+**International Association of Jesuit Engineering and Sciences Schools**  
+Senior Design Project • Santa Clara University
 
-This repository documents the in-progress redesign of the website for **IAJES – International Association of Jesuit Engineering and Sciences Schools**.  
-
-This work is part of my **Senior Design Project**, where I lead the UX, visual design, and proposed layout system for the site.
-
-> 🌐 IAJES unites Jesuit engineering and science schools around the world to collaborate on education, research, and meaningful global impact.
+This repository documents the redesign and modernization of the official IAJES website. The goal is to improve the platform’s usability, structure, design quality, and long-term maintainability for a global network of Jesuit engineering and science institutions.
 
 ---
 
-## 🌍 Project Overview
+## 🚀 Project Status  
+This project is currently **in progress** as part of my senior design capstone.  
+The work includes:
 
-The goal of the IAJES website redesign is to create a modern, structured, and mission-aligned digital presence for an international network of engineering and science institutions.
-
-The revamped site aims to:
-
-- Clearly communicate **who IAJES is** and their global mission  
-- Highlight **projects, initiatives, and network impact**  
-- Showcase **member institutions**  
-- Share updates about **events, conferences, and collaborations**  
-- Provide a more intuitive navigation experience  
-- Establish a unified, modern brand identity  
-
-This repository currently focuses on the **Design Phase**:  
-wireframes → prototypes → branding → design system.  
-Implementation will begin once design is finalized.
+- User research & requirements analysis  
+- Information architecture  
+- UX prototype design  
+- Visual design system  
+- Feature definition & prioritization  
+- Development planning  
+- Client communication & documentation  
 
 ---
 
-## 🎯 Project Objectives
+## 🖥️ Interactive Prototype (Figma)  
+A high-fidelity prototype demonstrating the new homepage and structure.
 
-- Improve **information architecture** to reduce cognitive load
-- Create a **consistent, modern design system** (colors, components, grids)
-- Build responsive design for desktop + mobile
-- Build a user-centered website for students, faculty, and global partners
-- Strengthen IAJES’ digital identity with upgraded visuals and messaging
+📌 **Prototype Preview**  
+![Prototype Preview](prototype%20preview.png)
 
----
-
-## 🧠 Design Process
-
-The redesign follows a structured, human-centered workflow:
-
-### 1. **Discovery**
-- Reviewed existing IAJES website + materials  
-- Identified key user groups (students, faculty, administrators, partners)  
-- Mapped content that required clearer structure and hierarchy  
-- Gathered expectations from the Senior Design team  
-
-### 2. **Information Architecture**
-- Reorganized the entire site into intuitive sections:
-  - Home  
-  - About  
-  - Network / Members  
-  - Projects & Initiatives  
-  - Events  
-  - Resources  
-  - Contact  
-- Prioritized content that needs immediate visibility  
-
-### 3. **Wireframing**
-- Built low & mid-fidelity wireframes in Figma  
-- Focused on layout, hierarchy, and flow  
-- Iterated based on team feedback  
-
-### 4. **Branding & Visual Identity (In Progress)**
-- Developing color palette  
-- Selecting typography aligned with Jesuit values  
-- Defining spacing and layout rules  
-- Designing core components (buttons, navbars, cards)  
-
-### 5. **Prototyping (In Progress)**
-- Created interactive mid-fidelity prototype  
-- Demonstrates homepage, navigation, structure, and layout  
-- Will evolve into final UI as branding finalizes  
-
-### 6. **Implementation (Upcoming)**
-- Convert final UI into responsive HTML/CSS/JS  
-- Prepare assets & guidelines for developers  
+🔗 *Full Figma link available upon request due to project sensitivity.*
 
 ---
 
-## ▶️ Interactive Prototype
-
-Explore the live interactive prototype of the IAJES website redesign:
-
-👉 **[Open Interactive Figma Prototype](https://www.figma.com/design/5wolxGnQPI7sz6TjF5LLx0/IAJES-Site-Wireframe?node-id=0-1&t=vkDE2KvzwwTi2I8S-1)**
-
-Click the image below to view the full prototype:
-
-[![IAJES Interactive Prototype](https://raw.githubusercontent.com/malanianisha/iajes-website-revamp/main/prototype%20preview.png)](https://www.figma.com/design/5wolxGnQPI7sz6TjF5LLx0/IAJES-Site-Wireframe?node-id=0-1&t=vkDE2KvzwwTi2I8S-1)
-
-### 🎨 What the Prototype Demonstrates
-- New homepage hero section  
-- Updated navigation structure  
-- Modern branding direction  
-- Improved readability and layout spacing  
-- A more welcoming introduction to IAJES’ mission and network  
+## 📂 Project Documentation  
+This project includes extensive planning and research documentation used to guide the website redesign process.
 
 ---
 
-## 📸 Wireframes & Early Layouts
+### 🔹 Feature Prioritization Spreadsheet  
+A structured list of all proposed features, priority levels, technical difficulty, and ownership.
 
-Wireframes are stored in the [`wireframes/`](./wireframes) folder and include:
-
-- Homepage layout  
-- Network/Members page  
-- Projects & Initiatives layout  
-- Events page  
-- Resources structure  
-
-Wireframes focus on **content hierarchy**, **layout clarity**, and **flow**.
-
-_(As the project evolves, exported wireframe images will be added here.)_
+📄 **View File:**  
+[`docs/IAJES Feature Priority.xlsx`](docs/IAJES%20Feature%20Priority.xlsx)
 
 ---
 
-## 🎨 Branding & Design System (In Progress)
+### 🔹 Project Timeline (Gantt Chart)  
+High-level development timeline covering research, design, development, review, and delivery phases.
 
-Branding explorations are stored in the [`branding/`](./branding) folder.
-
-The design system includes:
-
-- **Primary Color Palette** (aligned with Jesuit identity & global tone)
-- **Typography Pairings** for headers & body copy  
-- **Spacing Scale** for consistent structure  
-- **Reusable Components**, including:
-  - Navigation bar  
-  - Buttons  
-  - Cards  
-  - Footer  
-  - Section headers  
-
-Once completed, the style guide will also include example UI components and screen templates.
+🖼️ **Timeline:**  
+![IAJES Timeline](docs/Senior%20Design%20Timeline%20-%20Overview%20(11.9.25)%20-%20Online%20Gantt%2020251109.png)
 
 ---
 
-## 🧩 Planned Site Structure (IA)
+### 🔹 Site Proposal Document  
+Contains problem framing, user needs, proposed features, updated information architecture, and implementation plan.
 
-The redesigned website will include:
-
-### **Home**
-- Hero section  
-- Mission statement  
-- Featured initiatives  
-- Latest announcements  
-
-### **About**
-- Mission & vision  
-- Global impact  
-- Organizational structure  
-
-### **Network**
-- List of member schools  
-- Regional groupings  
-- Collaboration opportunities  
-
-### **Projects & Initiatives**
-- Current projects  
-- Social impact initiatives  
-- Research areas  
-
-### **Events**
-- Conferences & webinars  
-- Registration & schedules  
-
-### **Resources**
-- Publications  
-- Academic materials  
-- Shared documents  
-
-### **Contact**
-- Contact form  
-- Partnership inquiries  
+📄 **View PDF:**  
+[`docs/IAJES Site Proposal.pdf`](docs/IAJES%20Site%20Proposal.pdf)
 
 ---
 
-## 🛠 Planned Tech Stack (For Implementation)
+### 🔹 Site Architecture Flowchart  
+A structural flowchart that outlines the navigation model, user groups, key pages, and system logic.
 
-While still in design, the future development stack may include:
-
-- **HTML5 / CSS3** (responsive layout)
-- **JavaScript / Component-based elements**
-- (Optional) **Bootstrap or Tailwind** for faster development
-- Deployment via **university hosting**, GitHub Pages, or shared server  
+📄 **View PDF:**  
+[`docs/IAJES Site Proposal Flowchart.pdf`](docs/IAJES%20Site%20Proposal%20Flowchart.pdf)
 
 ---
 
-## 👩‍💻 My Role
+### 🔹 Project Overview Document  
+A summary of research activities, requirements analysis, proposed solutions, and next steps.
 
-- Lead **UX/UI Designer**  
-- Created wireframes, prototypes, and branding assets  
-- Defined information architecture and navigation  
-- Developed component system and layout standards  
-- Coordinated with Senior Design team for iteration  
-- Will support development during implementation  
+📄 **View PDF:**  
+[`docs/IAJES Web Project (1).pdf`](docs/IAJES%20Web%20Project%20(1).pdf)
 
 ---
 
-## 🚀 Project Status
+## 🎯 Project Goals  
+The redesigned website aims to:
 
-- ✅ Discovery completed  
-- ✅ First round wireframes completed  
-- 🔄 Interactive prototype in progress  
-- 🔄 Branding & design system in progress  
-- ⌛ Implementation phase upcoming  
-
----
-
-## 🤝 Credits
-
-This project is part of my **Senior Design Project** at Santa Clara University.  
-Created in collaboration with:
-
-- **IAJES – International Association of Jesuit Engineering and Sciences Schools**  
-- **Frugal Innovation Hub (FIH)**  
-- Senior Design Faculty & Advisors  
-
-Design & documentation by **Anisha Malani**.
+- Create a **clearer and more modern navigation experience**  
+- Improve clarity of IAJES initiatives and programs  
+- Provide a **clean visual identity** aligned with Jesuit values  
+- Support future events, conferences, and initiatives  
+- Enable better content management and long-term scalability  
+- Ensure mobile-responsive and accessible design  
 
 ---
 
+## 🛠️ Tools & Technologies  
+- Figma (UI/UX design)  
+- Notion (project planning)  
+- Excel (feature prioritization, requirements)  
+- Flowchart / IA tools  
+- GitHub (version control & documentation)  
+
+Planned development phase will include:
+
+- HTML/CSS/JS + modern frameworks (TBD)  
+- CMS or custom backend (in collaboration with IAJES)  
+
+---
+
+## 👩‍💻 Author  
+**Anisha Malani**  
+Santa Clara University  
+Web Design & Engineering • Responsible AI Minor  
+Senior Design 2025–2026
+
+---
+
+## 📬 Contact  
+If you'd like access to the full prototype or additional internal documentation, please reach out through GitHub or email.
